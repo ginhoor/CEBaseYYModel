@@ -1,0 +1,2 @@
+# CEBaseYYModel
+YYModel的简单封装，增加了与CoreData关联转换的功能
